@@ -10,9 +10,17 @@ You'll have to read the source code to know. This might evolve/change so I don't
 
 -----
 
+If you like what I do, and would like to support me: [My Patreon](https://www.patreon.com/jordan4ibanez)
+
+-----
+
+### Add to your project:
+
+-----
+
+In your fpm.toml add:
+
 ```toml
 [dependencies]
 string_f90 = { git = "https://github.com/jordan4ibanez/string_f90" }
 ```
-  
------
